@@ -2,7 +2,7 @@
 #
 # VERSION   2015.1
 
-FROM ubuntu:14.04
+FROM qnib/u_consul
 
 MAINTAINER Björn A. Grüning, Dave Bouvier
 
